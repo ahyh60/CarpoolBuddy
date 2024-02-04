@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CarpoolBuddy</string>
+    <string name="login">Login</string>
+    <string name ="client_id">1057183669185-jd7g9djegrv3d2cp3vfuitmesqo9a13l.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">Logout</string>
+    <string name="book_ride">Book Ride</string>
+    <string name="list_ride">List Ride</string>
+    <string name="list_a_vehicle">List A Vehicle</string>
+    <string name="lista_vehicle">List a Vehicle</string>
+    <string name="vehicle_plate">Vehicle Plate</string>
+    <string name="list_ridebutton">List Ride</string>
+    <string name="name">Name</string>
+    <string name="area">Area</string>
+    <string name="book_ride1">Book Ride</string>
+    <string name="car_details">Car Details</string>
+    <string name="log_in_with_google">Log In with Google</string>
+
+</resources>
